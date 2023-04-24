@@ -1,4 +1,2 @@
-# yolov8_Drop_Detection
-.
-.
-.
+# yolov8_Drop_Detection in Google Colab
+
